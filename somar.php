@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<!-- Este foi meu primeiro envio de um arquivo ao GitHub para eu começar a apender a usar :), e no futuro eu irei colocar mais projetos 
+meus. Neste aqui por exemplo eu apenas criei uma calculadora bem simples de apenas somar usando PHP puro com HTML/CSS --
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -49,6 +51,7 @@
     ?>
 <html>
 <body>
+<!-- Abaixo está uma gambiarra minha para limpar o resultado que aparece (o botão é fixo), onde obviamente está feio, mas funciona! -->
     <form action="somar.php">
         <div class="alinha-botoes">
         <button>Limpar resultado</button>
