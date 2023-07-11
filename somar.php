@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- Este foi meu primeiro envio de um arquivo ao GitHub para eu começar a apender a usar :), e no futuro eu irei colocar mais projetos 
-meus. Neste aqui por exemplo eu apenas criei uma calculadora bem simples de apenas somar usando PHP puro com HTML/CSS --
+meus. Neste aqui por exemplo eu apenas criei uma calculadora bem simples de apenas somar usando PHP puro com HTML/CSS -->
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
